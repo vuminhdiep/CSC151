@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="104fecfe-c45b-45bd-bb76-e3b537316ffd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cZroAi8QGQj7Ojht6uxel5SUZJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proj5.Client" />
+      <module name="VU_Proj5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proj5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTTest.testHeightEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VU_Proj5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proj5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="proj5" />
+      <option name="MAIN_CLASS_NAME" value="proj5.BSTTest" />
+      <option name="METHOD_NAME" value="testHeightEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTTest.testHeightNonEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VU_Proj5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proj5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="proj5" />
+      <option name="MAIN_CLASS_NAME" value="proj5.BSTTest" />
+      <option name="METHOD_NAME" value="testHeightNonEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericBagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VU_Proj5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proj5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="proj5" />
+      <option name="MAIN_CLASS_NAME" value="proj5.GenericBagTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThesaurusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VU_Proj5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proj5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="proj5" />
+      <option name="MAIN_CLASS_NAME" value="proj5.ThesaurusTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="JUnit.BSTTest.testHeightNonEmpty" />
+        <item itemvalue="JUnit.BSTTest.testHeightEmpty" />
+        <item itemvalue="JUnit.ThesaurusTest" />
+        <item itemvalue="JUnit.GenericBagTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="104fecfe-c45b-45bd-bb76-e3b537316ffd" name="Default Changelist" comment="" />
+      <created>1590747130486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590747130486</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1590747309526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590747309526" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590747416751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590747416751" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591379259215">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1591379259215" />
+    <state x="433" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591089687849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1591089687849" />
+    <state x="227" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591081044932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="227" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1591081044932" />
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1591841402628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591841402628" />
+    <state width="1367" height="185" key="GridCell.Tab.0.center" timestamp="1591841402627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591841402627" />
+    <state width="1367" height="185" key="GridCell.Tab.0.left" timestamp="1591841402627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591841402627" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right" timestamp="1591841402627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591841402627" />
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590831738572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1590831738572" />
+    <state x="65" y="0" key="new project wizard" timestamp="1590821391820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590821391820" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591265806020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591265806019" />
+  </component>
+</project>

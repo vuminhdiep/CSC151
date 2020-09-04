@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b1d6550-6990-4e54-b9db-71c38f8c797d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1alPsv5y8vimW0aHZyKWosDStYs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.SequenceTest">
+    <configuration name="SequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emma_Vu_Project2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SequenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceTest.test_AddAll_Repeat_All" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emma_Vu_Project2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SequenceTest" />
+      <option name="METHOD_NAME" value="test_AddAll_Repeat_All" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceTest.test_Clone_Identical" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emma_Vu_Project2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SequenceTest" />
+      <option name="METHOD_NAME" value="test_Clone_Identical" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceTest.test_Equals_Symmetry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emma_Vu_Project2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SequenceTest" />
+      <option name="METHOD_NAME" value="test_Equals_Symmetry" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceTest.test_Remove_NoCurrent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emma_Vu_Project2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SequenceTest" />
+      <option name="METHOD_NAME" value="test_Remove_NoCurrent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SequenceTest" />
+        <item itemvalue="JUnit.SequenceTest.test_Equals_Symmetry" />
+        <item itemvalue="JUnit.SequenceTest.test_AddAll_Repeat_All" />
+        <item itemvalue="JUnit.SequenceTest.test_Remove_NoCurrent" />
+        <item itemvalue="JUnit.SequenceTest.test_Clone_Identical" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b1d6550-6990-4e54-b9db-71c38f8c797d" name="Default Changelist" comment="" />
+      <created>1587307418224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587307418224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1587320351183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587320351183" />
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1587669448836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587669448836" />
+    <state width="1367" height="185" key="GridCell.Tab.0.center" timestamp="1587669448836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587669448836" />
+    <state width="1367" height="185" key="GridCell.Tab.0.left" timestamp="1587669448836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587669448836" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right" timestamp="1587669448836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587669448836" />
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587307900125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1587307900125" />
+    <state x="65" y="0" key="new project wizard" timestamp="1588125491187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588125491187" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587580440400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587580440400" />
+  </component>
+</project>

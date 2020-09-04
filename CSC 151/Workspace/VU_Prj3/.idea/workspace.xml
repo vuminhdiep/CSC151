@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7774fd9-65b7-49cd-afac-4c7b102ad4c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bj9srE2WsRsx9BSk3nerZvcQCy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Emma_Vu_Project2" />
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedListTester">
+    <configuration name="LinkedListTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VU_Prj3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTester" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTester.testInsertAtIndexTail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VU_Prj3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTester" />
+      <option name="METHOD_NAME" value="testInsertAtIndexTail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTester.testRemoveAtIndexEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VU_Prj3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTester" />
+      <option name="METHOD_NAME" value="testRemoveAtIndexEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTester.testRemoveTailSameMultiple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VU_Prj3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTester" />
+      <option name="METHOD_NAME" value="testRemoveTailSameMultiple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VU_Prj3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SequenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedListTester" />
+        <item itemvalue="JUnit.SequenceTest" />
+        <item itemvalue="JUnit.LinkedListTester.testRemoveTailSameMultiple" />
+        <item itemvalue="JUnit.LinkedListTester.testInsertAtIndexTail" />
+        <item itemvalue="JUnit.LinkedListTester.testRemoveAtIndexEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7774fd9-65b7-49cd-afac-4c7b102ad4c5" name="Default Changelist" comment="" />
+      <created>1589134845715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589134845715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589225720678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1589225720678" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1589135293040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589135293040" />
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1589391228080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589391228080" />
+    <state width="1367" height="185" key="GridCell.Tab.0.center" timestamp="1589391228080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589391228080" />
+    <state width="1367" height="185" key="GridCell.Tab.0.left" timestamp="1589391228080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589391228080" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right" timestamp="1589391228080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589391228080" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1589221779333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1589221779333" />
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589135520844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1589135520844" />
+    <state x="65" y="0" key="new project wizard" timestamp="1589613828356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589613828356" />
+  </component>
+</project>

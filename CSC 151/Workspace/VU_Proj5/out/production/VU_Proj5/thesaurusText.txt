@@ -1,0 +1,2 @@
+hi,hello,sup,cia,chao
+blue,cyan,azure,cobalt,navy,aquamarine
